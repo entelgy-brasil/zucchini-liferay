@@ -27,7 +27,7 @@ Feature: Navigate to public home
 Scenario:  Navigate to public home with a loged USer
   Given user "test@liferay.com" is logged in liferay
     Then I navigate to "web/guest/home"
-	Then element having id "portlet-id" should be present
+    Then element having id "portlet-id" should be present
     Then logout in liferay
 ```
 
