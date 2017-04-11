@@ -1,6 +1,6 @@
 # Zucchini for Liferay
 
-Zucchini extension for Liferay Projects
+Zucchini extension for Liferay 6.2 Projects
 
 ## Usage
 
